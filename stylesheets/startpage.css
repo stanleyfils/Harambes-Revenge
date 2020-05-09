@@ -1,0 +1,47 @@
+
+#startPageBackground {
+    background-image: url(../images/intro2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* margin: 0 auto 50% 50%; */
+}
+
+body {
+    height: 100vh;
+}
+
+#startbutton {
+    /* margin: 0 auto 600px; */
+    position: absolute;
+    top:50%;
+    left: 50%;
+}
+
+.title {
+    color: orange;
+    font-size: 40px
+}
+
+h1 {
+    text-align:center;
+    color: orange;
+    font-size: 40px
+}
+
+h6 {
+    color: orange;
+    font-size: 24px;
+}
+
+.instructions {
+    float: left;
+    width: 40%;
+}
+.instructions p {
+    display: block;
+    width: 100%;
+    color: white;
+    font-size: 20px
+}
+}

@@ -1,0 +1,28 @@
+canvas {
+    background-image: url('../images/b1dac0470bdf2f7cc0c559599fba19f9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.background-shading {
+background-color: darkslategray;
+}
+
+
+#score {
+    text-align: left;
+    position: fixed;
+    color: red;
+    bottom: 0;
+    left: 10;
+}
+
+#health {
+    text-align: right;
+    position: fixed;
+    color: red;
+    bottom: 0;
+    right: 0;
+}
+
